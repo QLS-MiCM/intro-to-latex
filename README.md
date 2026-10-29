@@ -16,10 +16,10 @@ A hands-on, modular introductory workshop on **LaTeX** designed for beginners an
 No installation required. Sign up for a free account on overleaf.
 * [Overleaf](https://www.overleaf.com/register) account
 
-## Sofware
+## Software
 (Not recommended for beginners)
 If you prefer working offline on your local machine, install a TeX distribution and an editor:
-.
+
 **LaTeX Distribution:**
    * **Windows:** [MiKTeX](https://miktex.org/download)
    * **macOS:** [MacTeX](https://www.tug.org/mactex/)
