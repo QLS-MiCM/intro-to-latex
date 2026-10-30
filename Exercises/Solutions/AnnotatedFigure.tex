@@ -1,5 +1,6 @@
 \documentclass{standalone}
 \usepackage{graphicx}
+\graphicspath{{../data}}
 \usepackage{tikz}
 \usetikzlibrary{calc}
 \usetikzlibrary{decorations.pathreplacing}
@@ -7,7 +8,7 @@
 
 \begin{document}
     \begin{tikzpicture}
-        \node[anchor=south west,inner sep=0] (image) at (0,0) {\includegraphics[width=12cm]{../images/greenCells.png}};
+        \node[anchor=south west,inner sep=0] (image) at (0,0) {\includegraphics[width=12cm]{images/greenCells.png}};
         %%%%%%%%%%%top right box%%%%%%%%%%%%
         
         \draw[red,very thick, rounded corners] (6.9,1.75) rectangle (12,3.45);
